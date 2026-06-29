@@ -1,0 +1,76 @@
+canonical_identifier: bkk:krp/KR2f0016/v1
+canonical_location: https://kanripo.org/bkk/KR2f0016/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 左史諫草
+  date: '2015-08-24 22:32:32.279244'
+  source:
+    repository: kanripo
+    path: KR2f0016
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR2f0016_000.yaml, hash: 'sha256:f0fd4cf987361944e2c5ec82ef526e48047901259da1f168ac2f10f28707c7ff'}
+  - {seq: 1, filename: KR2f0016_001.yaml, hash: 'sha256:c1c6d7aa3af8b1988a729949c4f99aab2dfb62dfae5ca03294ca737674d682e8'}
+  - {seq: 2, filename: KR2f0016_002.yaml, hash: 'sha256:d31f698607307fca74969d32328b80137d90c29ee5519a02b66f3d3a89679b6c'}
+  - {seq: 3, filename: KR2f0016_003.yaml, hash: 'sha256:22de91b7b4d9674057c1a27f02c7ae3c2ac0cc4bf6257d5c8c67da24e4d266e0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2f0016_000.markers.yaml, hash: 'sha256:fd7c48c6bad0e45846dc0888b80690af2b412e5301408af3f0fbfbd87a2d88fe'}
+  - {seq: 1, role: markers, filename: assets/KR2f0016_001.markers.yaml, hash: 'sha256:fbed02136295b5c248051439aea48bbbab1cbede84e5831e73541da9c62a0ce2'}
+  - {seq: 2, role: markers, filename: assets/KR2f0016_002.markers.yaml, hash: 'sha256:63b7c3c5a874f32b941a6fc8f498cee9bf40f6beed9de2904540a1185c09301b'}
+  - {seq: 3, role: markers, filename: assets/KR2f0016_003.markers.yaml, hash: 'sha256:84d5da4a782c2c872bb1673ce250e23189c8bebe9e3a0cd47fe1f4bc9a8c0be2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2f0016_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 281
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2f0016_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 8455
+  label: 左史諫草
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2f0016_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 4710
+  label: 左史吕公家傳
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2f0016_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 2368
+  label: 監簿吕公家傳
+  type: section
+  level: 1
+hash: sha256:e77ba1c3d0f8d45cbf84b5b578c2e061dcfb49de25e7b2a387d871712f026fb6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

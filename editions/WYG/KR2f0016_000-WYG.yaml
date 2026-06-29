@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2f0016/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部六
+  hash: sha256:5f60e64555bb05171f88ef93eab5b1c285f44f3268a9880b3cbd1f2ca80456fa
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2f0016_WYG_000-1a, image: WYG0427/WYG0427-0389a.png}
+body:
+  text: 左史諫草詔令奏議類二奏議之屬提要臣等謹案左史諫草一巻宋吕午撰午字伯可歙縣人嘉定四年官至進士起居郎右文殿修撰知漳州事蹟具宋史本𫝊是編凡奏議六首後附其子沆奏議一首後又附載家𫝊詩文之類最後載吕氏節女事皆因家𫝊附編者也午兩為諫官以風節自勵知無不言理宗嘗稱其議論甚明切又謂其論邊事甚好此六疏皆理宗嘉熙二年所上雖篇數無多而宋末時事頗可考見其論宋宰相臺諫之弊尤極詳懇其子沆一疏并方回所為午及沆傳亦多與宋史本傳可以相證回稱午文集名竹坡類藁是午本有全集而今佚之茲六疏葢存於散佚之餘者其他遺文則頗散見於新安文獻志諸書云乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:165895946dee97e26481aebedbae46319e5df81818bcf92325c91b9a9ebe4c95
+metadata:
+  title: 左史諫草
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:32:32.279244'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2f0016/KR2f0016_000.txt
+hash: sha256:091b8d43afe8bcbdfa43852a0a718a96a41a33f08507569df885cc9944a0de47
